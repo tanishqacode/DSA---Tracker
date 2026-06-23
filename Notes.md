@@ -1,0 +1,122 @@
+# Problem Name
+
+## Problem Link
+
+https://leetcode.com/problems/problem-name/
+
+---
+
+## Difficulty
+
+Easy / Medium / Hard
+
+---
+
+## Topic
+
+Arrays / HashMap / Trees / Graphs
+
+---
+
+## Pattern
+
+Example:
+
+- HashMap Lookup
+- Prefix Sum + HashMap
+- DFS
+- BFS
+- Sliding Window
+
+---
+
+## My Initial Thought Process
+
+Write what came to your mind first.
+
+Example:
+
+I first thought of using nested loops to compare every pair.
+
+---
+
+## Brute Force Approach
+
+### Idea
+
+Explain brute force.
+
+### Time Complexity
+
+O(n²)
+
+### Space Complexity
+
+O(1)
+
+---
+
+## Optimal Approach
+
+### Idea
+
+Explain the optimized solution.
+
+### Why It Works
+
+Explain logic.
+
+### Time Complexity
+
+O(n)
+
+### Space Complexity
+
+O(n)
+
+---
+
+## Mistakes I Made
+
+- Forgot base case.
+- Used value instead of index.
+- Wrong HashMap key.
+- Off-by-one error.
+
+---
+
+## What I Learned
+
+Example:
+
+This is a classic HashMap complement pattern.
+
+---
+
+## Alternative Approaches
+
+### Approach 1
+
+Sorting + Two Pointers
+
+### Approach 2
+
+HashMap
+
+---
+
+## Revision Status
+
+- [ ] Revised after 1 day
+- [ ] Revised after 7 days
+- [ ] Revised after 30 days
+- [ ] Can solve without help
+
+---
+
+## Similar Questions
+
+- Two Sum
+- Two Sum II
+- 3 Sum
+- 4 Sum
